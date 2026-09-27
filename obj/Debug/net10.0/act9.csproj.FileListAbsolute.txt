@@ -1,0 +1,14 @@
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.AssemblyInfoInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.AssemblyInfo.cs
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\bin\Debug\net10.0\act9.exe
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\bin\Debug\net10.0\act9.deps.json
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\bin\Debug\net10.0\act9.runtimeconfig.json
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\bin\Debug\net10.0\act9.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\bin\Debug\net10.0\act9.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\refint\act9.dll
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.pdb
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\act9.genruntimeconfig.cache
+C:\Users\Nahuel\Documents\Escuela\POO\act9\act9\obj\Debug\net10.0\ref\act9.dll
